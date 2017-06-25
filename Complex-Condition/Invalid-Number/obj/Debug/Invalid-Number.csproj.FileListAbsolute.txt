@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Invalid-Number\bin\Debug\Invalid-Number.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Invalid-Number\bin\Debug\Invalid-Number.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Invalid-Number\bin\Debug\Invalid-Number.pdb
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Invalid-Number\obj\Debug\Invalid-Number.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Invalid-Number\obj\Debug\Invalid-Number.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Conditional Statements and Loops\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.exe.config
+D:\SoftUni\Conditional Statements and Loops\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.pdb
+D:\SoftUni\Conditional Statements and Loops\Problem 4. Hotel\obj\Debug\Problem 4. Hotel.csprojResolveAssemblyReference.cache
+D:\SoftUni\Conditional Statements and Loops\Problem 4. Hotel\obj\Debug\Problem_4.Hotel.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 4. Hotel\obj\Debug\Problem_4.Hotel.pdb

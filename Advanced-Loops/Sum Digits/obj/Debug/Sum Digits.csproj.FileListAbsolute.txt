@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Sum Digits\bin\Debug\Sum Digits.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Sum Digits\bin\Debug\Sum Digits.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Sum Digits\bin\Debug\Sum Digits.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Sum Digits\obj\Debug\Sum Digits.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Sum Digits\obj\Debug\Sum Digits.pdb

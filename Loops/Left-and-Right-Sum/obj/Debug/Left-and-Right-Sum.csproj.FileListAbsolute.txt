@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Loops\Left-and-Right-Sum\bin\Debug\Left-and-Right-Sum.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Loops\Left-and-Right-Sum\bin\Debug\Left-and-Right-Sum.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Left-and-Right-Sum\bin\Debug\Left-and-Right-Sum.pdb
+C:\Users\Kucy\Desktop\SoftUni\Loops\Left-and-Right-Sum\obj\Debug\Left-and-Right-Sum.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Loops\Left-and-Right-Sum\obj\Debug\Left-and-Right-Sum.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Left-and-Right-Sum\obj\Debug\Left-and-Right-Sum.pdb

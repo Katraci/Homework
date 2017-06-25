@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.exe.config
+D:\SoftUni\Arrays and Methods\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.exe
+D:\SoftUni\Arrays and Methods\16. Array Symmetry\bin\Debug\_16.Array_Symmetry.pdb
+D:\SoftUni\Arrays and Methods\16. Array Symmetry\obj\Debug\16. Array Symmetry.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\16. Array Symmetry\obj\Debug\_16.Array_Symmetry.exe
+D:\SoftUni\Arrays and Methods\16. Array Symmetry\obj\Debug\_16.Array_Symmetry.pdb

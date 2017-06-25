@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Enter Even Number\bin\Debug\Enter Even Number.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Enter Even Number\bin\Debug\Enter Even Number.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Enter Even Number\bin\Debug\Enter Even Number.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Enter Even Number\obj\Debug\Enter Even Number.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Enter Even Number\obj\Debug\Enter Even Number.pdb

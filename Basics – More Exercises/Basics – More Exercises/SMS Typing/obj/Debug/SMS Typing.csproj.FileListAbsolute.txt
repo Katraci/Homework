@@ -1,0 +1,6 @@
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\SMS Typing\bin\Debug\SMS Typing.exe.config
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\SMS Typing\bin\Debug\SMS Typing.exe
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\SMS Typing\bin\Debug\SMS Typing.pdb
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\SMS Typing\obj\Debug\SMS Typing.csprojResolveAssemblyReference.cache
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\SMS Typing\obj\Debug\SMS Typing.exe
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\SMS Typing\obj\Debug\SMS Typing.pdb

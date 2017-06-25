@@ -1,0 +1,6 @@
+D:\SoftUni\More Exercises Arrays\5. Char Rotation\bin\Debug\_5.Char_Rotation.exe.config
+D:\SoftUni\More Exercises Arrays\5. Char Rotation\bin\Debug\_5.Char_Rotation.exe
+D:\SoftUni\More Exercises Arrays\5. Char Rotation\bin\Debug\_5.Char_Rotation.pdb
+D:\SoftUni\More Exercises Arrays\5. Char Rotation\obj\Debug\5. Char Rotation.csprojResolveAssemblyReference.cache
+D:\SoftUni\More Exercises Arrays\5. Char Rotation\obj\Debug\_5.Char_Rotation.exe
+D:\SoftUni\More Exercises Arrays\5. Char Rotation\obj\Debug\_5.Char_Rotation.pdb

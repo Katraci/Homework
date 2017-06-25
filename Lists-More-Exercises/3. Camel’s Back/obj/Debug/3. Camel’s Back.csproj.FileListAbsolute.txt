@@ -1,0 +1,6 @@
+D:\SoftUni\Lists-More-Exercises\3. Camel’s Back\bin\Debug\_3.Camel_s_Back.exe.config
+D:\SoftUni\Lists-More-Exercises\3. Camel’s Back\bin\Debug\_3.Camel_s_Back.exe
+D:\SoftUni\Lists-More-Exercises\3. Camel’s Back\bin\Debug\_3.Camel_s_Back.pdb
+D:\SoftUni\Lists-More-Exercises\3. Camel’s Back\obj\Debug\3. Camel’s Back.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lists-More-Exercises\3. Camel’s Back\obj\Debug\_3.Camel_s_Back.exe
+D:\SoftUni\Lists-More-Exercises\3. Camel’s Back\obj\Debug\_3.Camel_s_Back.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\21. Debugging Exercise Tetris\bin\Debug\_21.Debugging_Exercise_Tetris.exe.config
+D:\SoftUni\Arrays and Methods\21. Debugging Exercise Tetris\bin\Debug\_21.Debugging_Exercise_Tetris.exe
+D:\SoftUni\Arrays and Methods\21. Debugging Exercise Tetris\bin\Debug\_21.Debugging_Exercise_Tetris.pdb
+D:\SoftUni\Arrays and Methods\21. Debugging Exercise Tetris\obj\Debug\_21.Debugging_Exercise_Tetris.exe
+D:\SoftUni\Arrays and Methods\21. Debugging Exercise Tetris\obj\Debug\_21.Debugging_Exercise_Tetris.pdb
+D:\SoftUni\Arrays and Methods\21. Debugging Exercise Tetris\obj\Debug\21. Debugging Exercise Tetris.csprojResolveAssemblyReference.cache

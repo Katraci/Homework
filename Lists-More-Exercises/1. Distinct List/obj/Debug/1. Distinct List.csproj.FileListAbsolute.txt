@@ -1,0 +1,6 @@
+D:\SoftUni\Lists-More-Exercises\1. Distinct List\bin\Debug\_1.Distinct_List.exe.config
+D:\SoftUni\Lists-More-Exercises\1. Distinct List\bin\Debug\_1.Distinct_List.exe
+D:\SoftUni\Lists-More-Exercises\1. Distinct List\bin\Debug\_1.Distinct_List.pdb
+D:\SoftUni\Lists-More-Exercises\1. Distinct List\obj\Debug\1. Distinct List.csprojResolveAssemblyReference.cache
+D:\SoftUni\Lists-More-Exercises\1. Distinct List\obj\Debug\_1.Distinct_List.exe
+D:\SoftUni\Lists-More-Exercises\1. Distinct List\obj\Debug\_1.Distinct_List.pdb

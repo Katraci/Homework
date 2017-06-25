@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\6. Notifications\bin\Debug\_6.Notifications.exe.config
+D:\SoftUni\Arrays and Methods\6. Notifications\bin\Debug\_6.Notifications.exe
+D:\SoftUni\Arrays and Methods\6. Notifications\bin\Debug\_6.Notifications.pdb
+D:\SoftUni\Arrays and Methods\6. Notifications\obj\Debug\6. Notifications.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\6. Notifications\obj\Debug\_6.Notifications.exe
+D:\SoftUni\Arrays and Methods\6. Notifications\obj\Debug\_6.Notifications.pdb

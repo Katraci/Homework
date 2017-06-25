@@ -1,0 +1,6 @@
+D:\SoftUni\Conditional Statements and Loops\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.exe.config
+D:\SoftUni\Conditional Statements and Loops\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.pdb
+D:\SoftUni\Conditional Statements and Loops\Problem 12. Test Numbers\obj\Debug\Problem 12. Test Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Conditional Statements and Loops\Problem 12. Test Numbers\obj\Debug\Problem_12.Test_Numbers.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 12. Test Numbers\obj\Debug\Problem_12.Test_Numbers.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe.config
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.exe
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 2. Vapor Store\bin\Debug\Problem_2.Vapor_Store.pdb
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 2. Vapor Store\obj\Debug\Problem 2. Vapor Store.csprojResolveAssemblyReference.cache
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.exe
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 2. Vapor Store\obj\Debug\Problem_2.Vapor_Store.pdb

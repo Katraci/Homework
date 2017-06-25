@@ -1,0 +1,6 @@
+D:\SoftUni\More Exercises Arrays\3. Phonebook\bin\Debug\_3.Phonebook.exe.config
+D:\SoftUni\More Exercises Arrays\3. Phonebook\bin\Debug\_3.Phonebook.exe
+D:\SoftUni\More Exercises Arrays\3. Phonebook\bin\Debug\_3.Phonebook.pdb
+D:\SoftUni\More Exercises Arrays\3. Phonebook\obj\Debug\3. Phonebook.csprojResolveAssemblyReference.cache
+D:\SoftUni\More Exercises Arrays\3. Phonebook\obj\Debug\_3.Phonebook.exe
+D:\SoftUni\More Exercises Arrays\3. Phonebook\obj\Debug\_3.Phonebook.pdb

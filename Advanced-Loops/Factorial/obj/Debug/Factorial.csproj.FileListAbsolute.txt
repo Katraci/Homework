@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Factorial\bin\Debug\Factorial.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Factorial\obj\Debug\Factorial.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Factorial\obj\Debug\Factorial.pdb

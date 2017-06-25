@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Fruit-or-Vegetable\bin\Debug\Fruit-or-Vegetable.pdb
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Fruit-or-Vegetable\obj\Debug\Fruit-or-Vegetable.pdb

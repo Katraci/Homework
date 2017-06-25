@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-Ending-in-7\bin\Debug\Numbers-Ending-in-7.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-Ending-in-7\bin\Debug\Numbers-Ending-in-7.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-Ending-in-7\bin\Debug\Numbers-Ending-in-7.pdb
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-Ending-in-7\obj\Debug\Numbers-Ending-in-7.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-Ending-in-7\obj\Debug\Numbers-Ending-in-7.pdb

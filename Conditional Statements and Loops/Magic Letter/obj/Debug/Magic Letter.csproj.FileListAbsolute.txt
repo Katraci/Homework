@@ -1,0 +1,5 @@
+D:\SoftUni\Conditional Statements and Loops\Magic Letter\bin\Debug\Magic Letter.exe.config
+D:\SoftUni\Conditional Statements and Loops\Magic Letter\bin\Debug\Magic Letter.exe
+D:\SoftUni\Conditional Statements and Loops\Magic Letter\bin\Debug\Magic Letter.pdb
+D:\SoftUni\Conditional Statements and Loops\Magic Letter\obj\Debug\Magic Letter.exe
+D:\SoftUni\Conditional Statements and Loops\Magic Letter\obj\Debug\Magic Letter.pdb

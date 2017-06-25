@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\4. Nth Digit\bin\Debug\_4.Nth_Digit.exe.config
+D:\SoftUni\Arrays and Methods\4. Nth Digit\bin\Debug\_4.Nth_Digit.exe
+D:\SoftUni\Arrays and Methods\4. Nth Digit\bin\Debug\_4.Nth_Digit.pdb
+D:\SoftUni\Arrays and Methods\4. Nth Digit\obj\Debug\4. Nth Digit.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\4. Nth Digit\obj\Debug\_4.Nth_Digit.exe
+D:\SoftUni\Arrays and Methods\4. Nth Digit\obj\Debug\_4.Nth_Digit.pdb

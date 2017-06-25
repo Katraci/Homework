@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\2. Min Method\bin\Debug\_2.Min_Method.exe.config
+D:\SoftUni\Arrays and Methods\2. Min Method\bin\Debug\_2.Min_Method.exe
+D:\SoftUni\Arrays and Methods\2. Min Method\bin\Debug\_2.Min_Method.pdb
+D:\SoftUni\Arrays and Methods\2. Min Method\obj\Debug\2. Min Method.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\2. Min Method\obj\Debug\_2.Min_Method.exe
+D:\SoftUni\Arrays and Methods\2. Min Method\obj\Debug\_2.Min_Method.pdb

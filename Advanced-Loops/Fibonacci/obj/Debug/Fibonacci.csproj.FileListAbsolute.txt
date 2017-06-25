@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Fibonacci\obj\Debug\Fibonacci.pdb

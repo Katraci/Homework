@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers N1\bin\Debug\Numbers N1.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers N1\bin\Debug\Numbers N1.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers N1\bin\Debug\Numbers N1.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers N1\obj\Debug\Numbers N1.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers N1\obj\Debug\Numbers N1.pdb

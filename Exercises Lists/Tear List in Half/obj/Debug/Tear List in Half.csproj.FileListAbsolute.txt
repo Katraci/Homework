@@ -1,0 +1,6 @@
+D:\SoftUni\Exercises Lists\Tear List in Half\bin\Debug\Tear List in Half.exe.config
+D:\SoftUni\Exercises Lists\Tear List in Half\bin\Debug\Tear List in Half.exe
+D:\SoftUni\Exercises Lists\Tear List in Half\bin\Debug\Tear List in Half.pdb
+D:\SoftUni\Exercises Lists\Tear List in Half\obj\Debug\Tear List in Half.csprojResolveAssemblyReference.cache
+D:\SoftUni\Exercises Lists\Tear List in Half\obj\Debug\Tear List in Half.exe
+D:\SoftUni\Exercises Lists\Tear List in Half\obj\Debug\Tear List in Half.pdb

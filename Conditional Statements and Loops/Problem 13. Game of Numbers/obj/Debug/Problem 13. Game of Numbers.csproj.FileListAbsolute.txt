@@ -1,0 +1,6 @@
+D:\SoftUni\Conditional Statements and Loops\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.exe.config
+D:\SoftUni\Conditional Statements and Loops\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 13. Game of Numbers\bin\Debug\Problem_13.Game_of_Numbers.pdb
+D:\SoftUni\Conditional Statements and Loops\Problem 13. Game of Numbers\obj\Debug\Problem 13. Game of Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Conditional Statements and Loops\Problem 13. Game of Numbers\obj\Debug\Problem_13.Game_of_Numbers.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 13. Game of Numbers\obj\Debug\Problem_13.Game_of_Numbers.pdb

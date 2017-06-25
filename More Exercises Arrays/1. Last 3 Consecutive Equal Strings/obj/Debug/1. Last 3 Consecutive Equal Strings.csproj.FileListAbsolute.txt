@@ -1,0 +1,6 @@
+D:\SoftUni\More Exercises Arrays\1. Last 3 Consecutive Equal Strings\bin\Debug\_1.Last_3_Consecutive_Equal_Strings.exe.config
+D:\SoftUni\More Exercises Arrays\1. Last 3 Consecutive Equal Strings\bin\Debug\_1.Last_3_Consecutive_Equal_Strings.exe
+D:\SoftUni\More Exercises Arrays\1. Last 3 Consecutive Equal Strings\bin\Debug\_1.Last_3_Consecutive_Equal_Strings.pdb
+D:\SoftUni\More Exercises Arrays\1. Last 3 Consecutive Equal Strings\obj\Debug\1. Last 3 Consecutive Equal Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\More Exercises Arrays\1. Last 3 Consecutive Equal Strings\obj\Debug\_1.Last_3_Consecutive_Equal_Strings.exe
+D:\SoftUni\More Exercises Arrays\1. Last 3 Consecutive Equal Strings\obj\Debug\_1.Last_3_Consecutive_Equal_Strings.pdb

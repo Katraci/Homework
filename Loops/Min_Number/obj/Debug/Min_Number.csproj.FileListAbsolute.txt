@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Loops\Min_Number\bin\Debug\Min_Number.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Loops\Min_Number\bin\Debug\Min_Number.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Min_Number\bin\Debug\Min_Number.pdb
+C:\Users\Kucy\Desktop\SoftUni\Loops\Min_Number\obj\Debug\Min_Number.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Min_Number\obj\Debug\Min_Number.pdb

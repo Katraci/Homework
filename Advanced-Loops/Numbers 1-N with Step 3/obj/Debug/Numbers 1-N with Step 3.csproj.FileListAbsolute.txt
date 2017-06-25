@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers 1-N with Step 3\bin\Debug\Numbers 1-N with Step 3.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers 1-N with Step 3\bin\Debug\Numbers 1-N with Step 3.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers 1-N with Step 3\bin\Debug\Numbers 1-N with Step 3.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers 1-N with Step 3\obj\Debug\Numbers 1-N with Step 3.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers 1-N with Step 3\obj\Debug\Numbers 1-N with Step 3.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Numbers 1-N with Step 3\obj\Debug\Numbers 1-N with Step 3.pdb

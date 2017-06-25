@@ -1,0 +1,5 @@
+D:\SoftUni\Arrays and Methods\20. Debugging Exercise Triangle Formations\bin\Debug\_20.Debugging_Exercise_Triangle_Formations.exe.config
+D:\SoftUni\Arrays and Methods\20. Debugging Exercise Triangle Formations\bin\Debug\_20.Debugging_Exercise_Triangle_Formations.exe
+D:\SoftUni\Arrays and Methods\20. Debugging Exercise Triangle Formations\bin\Debug\_20.Debugging_Exercise_Triangle_Formations.pdb
+D:\SoftUni\Arrays and Methods\20. Debugging Exercise Triangle Formations\obj\Debug\_20.Debugging_Exercise_Triangle_Formations.exe
+D:\SoftUni\Arrays and Methods\20. Debugging Exercise Triangle Formations\obj\Debug\_20.Debugging_Exercise_Triangle_Formations.pdb

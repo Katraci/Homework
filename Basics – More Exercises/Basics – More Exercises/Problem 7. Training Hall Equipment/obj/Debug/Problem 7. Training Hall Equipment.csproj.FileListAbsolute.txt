@@ -1,0 +1,6 @@
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe.config
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.exe
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 7. Training Hall Equipment\bin\Debug\Problem_7.Training_Hall_Equipment.pdb
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 7. Training Hall Equipment\obj\Debug\Problem 7. Training Hall Equipment.csprojResolveAssemblyReference.cache
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.exe
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 7. Training Hall Equipment\obj\Debug\Problem_7.Training_Hall_Equipment.pdb

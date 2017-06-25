@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Greatest Common Divisor\bin\Debug\Greatest Common Divisor.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Greatest Common Divisor\obj\Debug\Greatest Common Divisor.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\More Exercises Arrays\Resizable Array\bin\Debug\Resizable Array.exe.config
+D:\SoftUni\More Exercises Arrays\Resizable Array\bin\Debug\Resizable Array.exe
+D:\SoftUni\More Exercises Arrays\Resizable Array\bin\Debug\Resizable Array.pdb
+D:\SoftUni\More Exercises Arrays\Resizable Array\obj\Debug\Resizable Array.csprojResolveAssemblyReference.cache
+D:\SoftUni\More Exercises Arrays\Resizable Array\obj\Debug\Resizable Array.exe
+D:\SoftUni\More Exercises Arrays\Resizable Array\obj\Debug\Resizable Array.pdb

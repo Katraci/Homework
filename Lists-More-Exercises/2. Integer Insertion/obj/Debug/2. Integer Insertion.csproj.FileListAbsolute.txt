@@ -1,0 +1,5 @@
+D:\SoftUni\Lists-More-Exercises\2. Integer Insertion\bin\Debug\_2.Integer_Insertion.exe.config
+D:\SoftUni\Lists-More-Exercises\2. Integer Insertion\bin\Debug\_2.Integer_Insertion.exe
+D:\SoftUni\Lists-More-Exercises\2. Integer Insertion\bin\Debug\_2.Integer_Insertion.pdb
+D:\SoftUni\Lists-More-Exercises\2. Integer Insertion\obj\Debug\_2.Integer_Insertion.exe
+D:\SoftUni\Lists-More-Exercises\2. Integer Insertion\obj\Debug\_2.Integer_Insertion.pdb

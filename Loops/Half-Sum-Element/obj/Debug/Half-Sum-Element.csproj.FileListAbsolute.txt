@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.pdb
+C:\Users\Kucy\Desktop\SoftUni\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.pdb

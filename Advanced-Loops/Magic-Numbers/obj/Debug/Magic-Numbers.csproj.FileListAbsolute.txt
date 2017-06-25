@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Magic-Numbers\bin\Debug\Magic-Numbers.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Magic-Numbers\bin\Debug\Magic-Numbers.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Magic-Numbers\bin\Debug\Magic-Numbers.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Magic-Numbers\obj\Debug\Magic-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Magic-Numbers\obj\Debug\Magic-Numbers.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Magic-Numbers\obj\Debug\Magic-Numbers.pdb

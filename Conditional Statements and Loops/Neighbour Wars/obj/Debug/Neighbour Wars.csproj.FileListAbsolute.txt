@@ -1,0 +1,6 @@
+D:\SoftUni\Conditional Statements and Loops\Neighbour Wars\bin\Debug\Neighbour Wars.exe.config
+D:\SoftUni\Conditional Statements and Loops\Neighbour Wars\bin\Debug\Neighbour Wars.exe
+D:\SoftUni\Conditional Statements and Loops\Neighbour Wars\bin\Debug\Neighbour Wars.pdb
+D:\SoftUni\Conditional Statements and Loops\Neighbour Wars\obj\Debug\Neighbour Wars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Conditional Statements and Loops\Neighbour Wars\obj\Debug\Neighbour Wars.exe
+D:\SoftUni\Conditional Statements and Loops\Neighbour Wars\obj\Debug\Neighbour Wars.pdb

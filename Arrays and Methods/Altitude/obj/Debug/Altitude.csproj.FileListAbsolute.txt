@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\Altitude\bin\Debug\Altitude.exe.config
+D:\SoftUni\Arrays and Methods\Altitude\bin\Debug\Altitude.exe
+D:\SoftUni\Arrays and Methods\Altitude\bin\Debug\Altitude.pdb
+D:\SoftUni\Arrays and Methods\Altitude\obj\Debug\Altitude.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\Altitude\obj\Debug\Altitude.exe
+D:\SoftUni\Arrays and Methods\Altitude\obj\Debug\Altitude.pdb

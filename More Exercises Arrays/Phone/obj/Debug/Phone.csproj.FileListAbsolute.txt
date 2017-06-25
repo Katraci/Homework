@@ -1,0 +1,6 @@
+D:\SoftUni\More Exercises Arrays\Phone\bin\Debug\Phone.exe.config
+D:\SoftUni\More Exercises Arrays\Phone\bin\Debug\Phone.exe
+D:\SoftUni\More Exercises Arrays\Phone\bin\Debug\Phone.pdb
+D:\SoftUni\More Exercises Arrays\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+D:\SoftUni\More Exercises Arrays\Phone\obj\Debug\Phone.exe
+D:\SoftUni\More Exercises Arrays\Phone\obj\Debug\Phone.pdb

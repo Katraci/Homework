@@ -1,0 +1,6 @@
+D:\SoftUni\Exercises Lists\3. Equal Sum After Extraction\bin\Debug\_3.Equal_Sum_After_Extraction.exe.config
+D:\SoftUni\Exercises Lists\3. Equal Sum After Extraction\bin\Debug\_3.Equal_Sum_After_Extraction.exe
+D:\SoftUni\Exercises Lists\3. Equal Sum After Extraction\bin\Debug\_3.Equal_Sum_After_Extraction.pdb
+D:\SoftUni\Exercises Lists\3. Equal Sum After Extraction\obj\Debug\3. Equal Sum After Extraction.csprojResolveAssemblyReference.cache
+D:\SoftUni\Exercises Lists\3. Equal Sum After Extraction\obj\Debug\_3.Equal_Sum_After_Extraction.exe
+D:\SoftUni\Exercises Lists\3. Equal Sum After Extraction\obj\Debug\_3.Equal_Sum_After_Extraction.pdb

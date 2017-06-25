@@ -1,0 +1,6 @@
+D:\SoftUni\Exercises Lists\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.exe.config
+D:\SoftUni\Exercises Lists\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.exe
+D:\SoftUni\Exercises Lists\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.pdb
+D:\SoftUni\Exercises Lists\4. Flip List Sides\obj\Debug\_4.Flip_List_Sides.exe
+D:\SoftUni\Exercises Lists\4. Flip List Sides\obj\Debug\_4.Flip_List_Sides.pdb
+D:\SoftUni\Exercises Lists\4. Flip List Sides\obj\Debug\4. Flip List Sides.csprojResolveAssemblyReference.cache

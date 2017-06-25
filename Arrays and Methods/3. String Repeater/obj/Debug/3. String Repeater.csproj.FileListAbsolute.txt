@@ -1,0 +1,5 @@
+D:\SoftUni\Arrays and Methods\3. String Repeater\bin\Debug\_3.String_Repeater.exe.config
+D:\SoftUni\Arrays and Methods\3. String Repeater\bin\Debug\_3.String_Repeater.exe
+D:\SoftUni\Arrays and Methods\3. String Repeater\bin\Debug\_3.String_Repeater.pdb
+D:\SoftUni\Arrays and Methods\3. String Repeater\obj\Debug\_3.String_Repeater.exe
+D:\SoftUni\Arrays and Methods\3. String Repeater\obj\Debug\_3.String_Repeater.pdb

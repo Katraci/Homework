@@ -1,0 +1,6 @@
+D:\SoftUni\Conditional Statements and Loops\Problem 11. 5 Different Numbers\bin\Debug\Problem 11. 5 Different Numbers.exe.config
+D:\SoftUni\Conditional Statements and Loops\Problem 11. 5 Different Numbers\bin\Debug\Problem 11. 5 Different Numbers.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 11. 5 Different Numbers\bin\Debug\Problem 11. 5 Different Numbers.pdb
+D:\SoftUni\Conditional Statements and Loops\Problem 11. 5 Different Numbers\obj\Debug\Problem 11. 5 Different Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Conditional Statements and Loops\Problem 11. 5 Different Numbers\obj\Debug\Problem 11. 5 Different Numbers.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 11. 5 Different Numbers\obj\Debug\Problem 11. 5 Different Numbers.pdb

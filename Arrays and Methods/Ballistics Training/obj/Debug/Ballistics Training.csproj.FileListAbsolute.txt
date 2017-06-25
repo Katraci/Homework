@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\Ballistics Training\bin\Debug\Ballistics Training.exe.config
+D:\SoftUni\Arrays and Methods\Ballistics Training\bin\Debug\Ballistics Training.exe
+D:\SoftUni\Arrays and Methods\Ballistics Training\bin\Debug\Ballistics Training.pdb
+D:\SoftUni\Arrays and Methods\Ballistics Training\obj\Debug\Ballistics Training.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\Ballistics Training\obj\Debug\Ballistics Training.exe
+D:\SoftUni\Arrays and Methods\Ballistics Training\obj\Debug\Ballistics Training.pdb

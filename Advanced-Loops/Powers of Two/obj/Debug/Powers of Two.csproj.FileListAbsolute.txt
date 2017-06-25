@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Powers of Two\bin\Debug\Powers of Two.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Powers of Two\bin\Debug\Powers of Two.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Powers of Two\bin\Debug\Powers of Two.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Powers of Two\obj\Debug\Powers of Two.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Powers of Two\obj\Debug\Powers of Two.pdb

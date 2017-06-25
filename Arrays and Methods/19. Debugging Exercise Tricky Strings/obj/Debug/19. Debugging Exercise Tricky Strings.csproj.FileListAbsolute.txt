@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\19. Debugging Exercise Tricky Strings\bin\Debug\_19.Debugging_Exercise_Tricky_Strings.exe.config
+D:\SoftUni\Arrays and Methods\19. Debugging Exercise Tricky Strings\bin\Debug\_19.Debugging_Exercise_Tricky_Strings.exe
+D:\SoftUni\Arrays and Methods\19. Debugging Exercise Tricky Strings\bin\Debug\_19.Debugging_Exercise_Tricky_Strings.pdb
+D:\SoftUni\Arrays and Methods\19. Debugging Exercise Tricky Strings\obj\Debug\19. Debugging Exercise Tricky Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\19. Debugging Exercise Tricky Strings\obj\Debug\_19.Debugging_Exercise_Tricky_Strings.exe
+D:\SoftUni\Arrays and Methods\19. Debugging Exercise Tricky Strings\obj\Debug\_19.Debugging_Exercise_Tricky_Strings.pdb

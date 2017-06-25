@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Point-in-Rectangle\bin\Debug\Point-in-Rectangle.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Point-in-Rectangle\bin\Debug\Point-in-Rectangle.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Point-in-Rectangle\bin\Debug\Point-in-Rectangle.pdb
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Point-in-Rectangle\obj\Debug\Point-in-Rectangle.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Point-in-Rectangle\obj\Debug\Point-in-Rectangle.pdb

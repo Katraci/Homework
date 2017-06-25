@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Loops\Equal-Pairs\bin\Debug\Equal-Pairs.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Loops\Equal-Pairs\bin\Debug\Equal-Pairs.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Equal-Pairs\bin\Debug\Equal-Pairs.pdb
+C:\Users\Kucy\Desktop\SoftUni\Loops\Equal-Pairs\obj\Debug\Equal-Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Loops\Equal-Pairs\obj\Debug\Equal-Pairs.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Equal-Pairs\obj\Debug\Equal-Pairs.pdb

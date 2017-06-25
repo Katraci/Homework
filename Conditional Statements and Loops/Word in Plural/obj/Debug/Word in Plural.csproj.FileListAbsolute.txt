@@ -1,0 +1,6 @@
+D:\SoftUni\Conditional Statements and Loops\Word in Plural\bin\Debug\Word in Plural.exe.config
+D:\SoftUni\Conditional Statements and Loops\Word in Plural\bin\Debug\Word in Plural.exe
+D:\SoftUni\Conditional Statements and Loops\Word in Plural\bin\Debug\Word in Plural.pdb
+D:\SoftUni\Conditional Statements and Loops\Word in Plural\obj\Debug\Word in Plural.csprojResolveAssemblyReference.cache
+D:\SoftUni\Conditional Statements and Loops\Word in Plural\obj\Debug\Word in Plural.exe
+D:\SoftUni\Conditional Statements and Loops\Word in Plural\obj\Debug\Word in Plural.pdb

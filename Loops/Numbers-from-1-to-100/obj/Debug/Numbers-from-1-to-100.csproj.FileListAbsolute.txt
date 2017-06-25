@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-from-1-to-100\bin\Debug\Numbers-from-1-to-100.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-from-1-to-100\bin\Debug\Numbers-from-1-to-100.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-from-1-to-100\bin\Debug\Numbers-from-1-to-100.pdb
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-from-1-to-100\obj\Debug\Numbers-from-1-to-100.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-from-1-to-100\obj\Debug\Numbers-from-1-to-100.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Numbers-from-1-to-100\obj\Debug\Numbers-from-1-to-100.pdb

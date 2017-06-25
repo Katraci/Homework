@@ -1,0 +1,6 @@
+D:\SoftUni\Exercises Lists\1. Remove Elements at Odd Positions\bin\Debug\_1.Remove_Elements_at_Odd_Positions.exe.config
+D:\SoftUni\Exercises Lists\1. Remove Elements at Odd Positions\bin\Debug\_1.Remove_Elements_at_Odd_Positions.exe
+D:\SoftUni\Exercises Lists\1. Remove Elements at Odd Positions\bin\Debug\_1.Remove_Elements_at_Odd_Positions.pdb
+D:\SoftUni\Exercises Lists\1. Remove Elements at Odd Positions\obj\Debug\1. Remove Elements at Odd Positions.csprojResolveAssemblyReference.cache
+D:\SoftUni\Exercises Lists\1. Remove Elements at Odd Positions\obj\Debug\_1.Remove_Elements_at_Odd_Positions.exe
+D:\SoftUni\Exercises Lists\1. Remove Elements at Odd Positions\obj\Debug\_1.Remove_Elements_at_Odd_Positions.pdb

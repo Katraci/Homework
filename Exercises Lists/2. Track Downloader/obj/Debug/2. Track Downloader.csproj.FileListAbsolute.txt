@@ -1,0 +1,6 @@
+D:\SoftUni\Exercises Lists\2. Track Downloader\obj\Debug\2. Track Downloader.csprojResolveAssemblyReference.cache
+D:\SoftUni\Exercises Lists\2. Track Downloader\bin\Debug\_2.Track_Downloader.exe.config
+D:\SoftUni\Exercises Lists\2. Track Downloader\bin\Debug\_2.Track_Downloader.exe
+D:\SoftUni\Exercises Lists\2. Track Downloader\bin\Debug\_2.Track_Downloader.pdb
+D:\SoftUni\Exercises Lists\2. Track Downloader\obj\Debug\_2.Track_Downloader.exe
+D:\SoftUni\Exercises Lists\2. Track Downloader\obj\Debug\_2.Track_Downloader.pdb

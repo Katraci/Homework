@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Smal-Shop\bin\Debug\Smal-Shop.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Smal-Shop\bin\Debug\Smal-Shop.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Smal-Shop\bin\Debug\Smal-Shop.pdb
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Smal-Shop\obj\Debug\Smal-Shop.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Smal-Shop\obj\Debug\Smal-Shop.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Smal-Shop\obj\Debug\Smal-Shop.pdb

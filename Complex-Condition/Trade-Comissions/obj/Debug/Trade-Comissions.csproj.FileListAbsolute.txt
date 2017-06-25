@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Trade-Comissions\bin\Debug\Trade-Comissions.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Trade-Comissions\bin\Debug\Trade-Comissions.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Trade-Comissions\bin\Debug\Trade-Comissions.pdb
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Trade-Comissions\obj\Debug\Trade-Comissions.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Trade-Comissions\obj\Debug\Trade-Comissions.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Trade-Comissions\obj\Debug\Trade-Comissions.pdb

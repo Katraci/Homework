@@ -1,0 +1,10 @@
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\bin\Debug\Turtle-Graphics.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\bin\Debug\Turtle-Graphics.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\bin\Debug\Turtle-Graphics.pdb
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\obj\Debug\Turtle-Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\obj\Debug\Turtle_Graphics.Form1.resources
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\obj\Debug\Turtle_Graphics.Properties.Resources.resources
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\obj\Debug\Turtle-Graphics.csproj.GenerateResource.Cache
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\obj\Debug\Turtle-Graphics.exe
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\obj\Debug\Turtle-Graphics.pdb
+C:\Users\Kucy\Desktop\SoftUni\Loops\Turtle-Graphics\bin\Debug\Nakov.TurtleGraphics.dll

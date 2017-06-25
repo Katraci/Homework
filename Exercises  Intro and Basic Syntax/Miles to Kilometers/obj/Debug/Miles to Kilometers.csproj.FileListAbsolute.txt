@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Miles to Kilometers\bin\Debug\Miles to Kilometers.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Miles to Kilometers\obj\Debug\Miles to Kilometers.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Miles to Kilometers\obj\Debug\Miles to Kilometers.exe
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Miles to Kilometers\obj\Debug\Miles to Kilometers.pdb

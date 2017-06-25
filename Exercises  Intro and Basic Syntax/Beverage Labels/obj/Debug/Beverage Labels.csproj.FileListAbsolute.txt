@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.exe
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Beverage Labels\obj\Debug\Beverage Labels.exe
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Beverage Labels\obj\Debug\Beverage Labels.pdb

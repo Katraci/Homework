@@ -1,0 +1,5 @@
+D:\SoftUni\Arrays and Methods\test\bin\Debug\test.exe.config
+D:\SoftUni\Arrays and Methods\test\bin\Debug\test.exe
+D:\SoftUni\Arrays and Methods\test\bin\Debug\test.pdb
+D:\SoftUni\Arrays and Methods\test\obj\Debug\test.exe
+D:\SoftUni\Arrays and Methods\test\obj\Debug\test.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe.config
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.exe
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 4. Photo Gallery\bin\Debug\Problem_4.Photo_Gallery.pdb
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 4. Photo Gallery\obj\Debug\Problem 4. Photo Gallery.csprojResolveAssemblyReference.cache
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.exe
+D:\SoftUni\Basics – More Exercises\Basics – More Exercises\Problem 4. Photo Gallery\obj\Debug\Problem_4.Photo_Gallery.pdb

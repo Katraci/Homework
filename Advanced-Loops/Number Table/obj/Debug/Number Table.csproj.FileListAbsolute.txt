@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Number Table\bin\Debug\Number Table.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Number Table\bin\Debug\Number Table.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Number Table\bin\Debug\Number Table.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Number Table\obj\Debug\Number Table.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Number Table\obj\Debug\Number Table.pdb

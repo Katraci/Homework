@@ -1,0 +1,6 @@
+D:\SoftUni\Conditional Statements and Loops\Choose a Drink\bin\Debug\Choose a Drink.exe.config
+D:\SoftUni\Conditional Statements and Loops\Choose a Drink\bin\Debug\Choose a Drink.exe
+D:\SoftUni\Conditional Statements and Loops\Choose a Drink\bin\Debug\Choose a Drink.pdb
+D:\SoftUni\Conditional Statements and Loops\Choose a Drink\obj\Debug\Choose a Drink.csprojResolveAssemblyReference.cache
+D:\SoftUni\Conditional Statements and Loops\Choose a Drink\obj\Debug\Choose a Drink.exe
+D:\SoftUni\Conditional Statements and Loops\Choose a Drink\obj\Debug\Choose a Drink.pdb

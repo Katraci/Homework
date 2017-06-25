@@ -1,0 +1,6 @@
+D:\SoftUni\Exercises Lists\Stuck Zipper\bin\Debug\Stuck Zipper.exe.config
+D:\SoftUni\Exercises Lists\Stuck Zipper\bin\Debug\Stuck Zipper.exe
+D:\SoftUni\Exercises Lists\Stuck Zipper\bin\Debug\Stuck Zipper.pdb
+D:\SoftUni\Exercises Lists\Stuck Zipper\obj\Debug\Stuck Zipper.csprojResolveAssemblyReference.cache
+D:\SoftUni\Exercises Lists\Stuck Zipper\obj\Debug\Stuck Zipper.exe
+D:\SoftUni\Exercises Lists\Stuck Zipper\obj\Debug\Stuck Zipper.pdb

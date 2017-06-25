@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Person-Title\bin\Debug\Person-Title.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Person-Title\bin\Debug\Person-Title.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Person-Title\bin\Debug\Person-Title.pdb
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Person-Title\obj\Debug\Person-Title.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Person-Title\obj\Debug\Person-Title.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Person-Title\obj\Debug\Person-Title.pdb

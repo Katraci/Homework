@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Exercises  Intro and Basic Syntax\bin\Debug\Exercises  Intro and Basic Syntax.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Exercises  Intro and Basic Syntax\bin\Debug\Exercises  Intro and Basic Syntax.exe
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Exercises  Intro and Basic Syntax\bin\Debug\Exercises  Intro and Basic Syntax.pdb
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Exercises  Intro and Basic Syntax\obj\Debug\Exercises  Intro and Basic Syntax.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Exercises  Intro and Basic Syntax\obj\Debug\Exercises  Intro and Basic Syntax.exe
+C:\Users\Kucy\Desktop\SoftUni\Exercises  Intro and Basic Syntax\Exercises  Intro and Basic Syntax\obj\Debug\Exercises  Intro and Basic Syntax.pdb

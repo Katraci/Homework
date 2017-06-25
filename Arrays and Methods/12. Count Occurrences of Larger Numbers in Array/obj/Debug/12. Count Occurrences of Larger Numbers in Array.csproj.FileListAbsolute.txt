@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\12. Count Occurrences of Larger Numbers in Array\bin\Debug\_12.Count_Occurrences_of_Larger_Numbers_in_Array.exe.config
+D:\SoftUni\Arrays and Methods\12. Count Occurrences of Larger Numbers in Array\bin\Debug\_12.Count_Occurrences_of_Larger_Numbers_in_Array.exe
+D:\SoftUni\Arrays and Methods\12. Count Occurrences of Larger Numbers in Array\bin\Debug\_12.Count_Occurrences_of_Larger_Numbers_in_Array.pdb
+D:\SoftUni\Arrays and Methods\12. Count Occurrences of Larger Numbers in Array\obj\Debug\12. Count Occurrences of Larger Numbers in Array.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\12. Count Occurrences of Larger Numbers in Array\obj\Debug\_12.Count_Occurrences_of_Larger_Numbers_in_Array.exe
+D:\SoftUni\Arrays and Methods\12. Count Occurrences of Larger Numbers in Array\obj\Debug\_12.Count_Occurrences_of_Larger_Numbers_in_Array.pdb

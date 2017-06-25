@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\13. Increasing Sequence of Elements\bin\Debug\_13.Increasing_Sequence_of_Elements.exe.config
+D:\SoftUni\Arrays and Methods\13. Increasing Sequence of Elements\bin\Debug\_13.Increasing_Sequence_of_Elements.exe
+D:\SoftUni\Arrays and Methods\13. Increasing Sequence of Elements\bin\Debug\_13.Increasing_Sequence_of_Elements.pdb
+D:\SoftUni\Arrays and Methods\13. Increasing Sequence of Elements\obj\Debug\13. Increasing Sequence of Elements.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\13. Increasing Sequence of Elements\obj\Debug\_13.Increasing_Sequence_of_Elements.exe
+D:\SoftUni\Arrays and Methods\13. Increasing Sequence of Elements\obj\Debug\_13.Increasing_Sequence_of_Elements.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Day-of-Week\bin\Debug\Day-of-Week.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Day-of-Week\bin\Debug\Day-of-Week.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Day-of-Week\bin\Debug\Day-of-Week.pdb
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Day-of-Week\obj\Debug\Day-of-Week.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Day-of-Week\obj\Debug\Day-of-Week.exe
+C:\Users\Kucy\Desktop\SoftUni\Complex-Condition\Day-of-Week\obj\Debug\Day-of-Week.pdb

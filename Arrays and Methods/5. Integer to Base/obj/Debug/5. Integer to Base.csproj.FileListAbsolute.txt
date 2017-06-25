@@ -1,0 +1,6 @@
+D:\SoftUni\Arrays and Methods\5. Integer to Base\obj\Debug\5. Integer to Base.csprojResolveAssemblyReference.cache
+D:\SoftUni\Arrays and Methods\5. Integer to Base\bin\Debug\_5.Integer_to_Base.exe.config
+D:\SoftUni\Arrays and Methods\5. Integer to Base\bin\Debug\_5.Integer_to_Base.exe
+D:\SoftUni\Arrays and Methods\5. Integer to Base\bin\Debug\_5.Integer_to_Base.pdb
+D:\SoftUni\Arrays and Methods\5. Integer to Base\obj\Debug\_5.Integer_to_Base.exe
+D:\SoftUni\Arrays and Methods\5. Integer to Base\obj\Debug\_5.Integer_to_Base.pdb

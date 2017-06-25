@@ -1,0 +1,6 @@
+D:\SoftUni\Conditional Statements and Loops\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.exe.config
+D:\SoftUni\Conditional Statements and Loops\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 8. Calories Counter\bin\Debug\Problem_8.Calories_Counter.pdb
+D:\SoftUni\Conditional Statements and Loops\Problem 8. Calories Counter\obj\Debug\Problem 8. Calories Counter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Conditional Statements and Loops\Problem 8. Calories Counter\obj\Debug\Problem_8.Calories_Counter.exe
+D:\SoftUni\Conditional Statements and Loops\Problem 8. Calories Counter\obj\Debug\Problem_8.Calories_Counter.pdb

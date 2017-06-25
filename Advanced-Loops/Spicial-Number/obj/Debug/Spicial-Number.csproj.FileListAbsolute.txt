@@ -1,0 +1,5 @@
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Spicial-Number\bin\Debug\Spicial-Number.exe.config
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Spicial-Number\bin\Debug\Spicial-Number.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Spicial-Number\bin\Debug\Spicial-Number.pdb
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Spicial-Number\obj\Debug\Spicial-Number.exe
+C:\Users\Kucy\Desktop\SoftUni\Advanced-Loops\Spicial-Number\obj\Debug\Spicial-Number.pdb
