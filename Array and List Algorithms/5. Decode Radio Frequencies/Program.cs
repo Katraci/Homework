@@ -17,9 +17,6 @@ namespace _5.Decode_Radio_Frequencies
             for (int i = 0; i < arr.Length; i++)
             {
                 int[] arrHelp = arr[i].ToString().Split('.').Select(int.Parse).ToArray();
-               
-
-
                 if (arrHelp[0] > 0)
                 {
                     numbersBegin.Add(arrHelp[0]);
@@ -42,23 +39,5 @@ namespace _5.Decode_Radio_Frequencies
 
         }
 
-         static int NumbersAfterDot(decimal v)
-        {
-            bool counter = false;
-            int count = 0;
-            foreach (var s in v.ToString())
-            {
-                if (s == '.')
-                {
-                    counter = true;
-                }
-                else if (counter)
-                {
-                    count++;
-                }
-            }
-
-            return count;
-        }
     }
 }
