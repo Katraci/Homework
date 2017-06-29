@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Lists-More-Exercises\Winecraft\bin\Debug\Winecraft.exe.config
+D:\SoftUni\Homework\Lists-More-Exercises\Winecraft\bin\Debug\Winecraft.exe
+D:\SoftUni\Homework\Lists-More-Exercises\Winecraft\bin\Debug\Winecraft.pdb
+D:\SoftUni\Homework\Lists-More-Exercises\Winecraft\obj\Debug\Winecraft.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Lists-More-Exercises\Winecraft\obj\Debug\Winecraft.exe
+D:\SoftUni\Homework\Lists-More-Exercises\Winecraft\obj\Debug\Winecraft.pdb

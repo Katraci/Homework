@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Array and List Algorithms\5. Decode Radio Frequencies\bin\Debug\_5.Decode_Radio_Frequencies.exe.config
+D:\SoftUni\Homework\Array and List Algorithms\5. Decode Radio Frequencies\bin\Debug\_5.Decode_Radio_Frequencies.exe
+D:\SoftUni\Homework\Array and List Algorithms\5. Decode Radio Frequencies\bin\Debug\_5.Decode_Radio_Frequencies.pdb
+D:\SoftUni\Homework\Array and List Algorithms\5. Decode Radio Frequencies\obj\Debug\5. Decode Radio Frequencies.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Array and List Algorithms\5. Decode Radio Frequencies\obj\Debug\_5.Decode_Radio_Frequencies.exe
+D:\SoftUni\Homework\Array and List Algorithms\5. Decode Radio Frequencies\obj\Debug\_5.Decode_Radio_Frequencies.pdb
