@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\5. Increasing Crisis\bin\Debug\_5.Increasing_Crisis.exe.config
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\5. Increasing Crisis\bin\Debug\_5.Increasing_Crisis.exe
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\5. Increasing Crisis\bin\Debug\_5.Increasing_Crisis.pdb
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\5. Increasing Crisis\obj\Debug\5. Increasing Crisis.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\5. Increasing Crisis\obj\Debug\_5.Increasing_Crisis.exe
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\5. Increasing Crisis\obj\Debug\_5.Increasing_Crisis.pdb

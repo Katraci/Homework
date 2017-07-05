@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\6. Extremums\bin\Debug\_6.Extremums.exe.config
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\6. Extremums\bin\Debug\_6.Extremums.exe
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\6. Extremums\bin\Debug\_6.Extremums.pdb
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\6. Extremums\obj\Debug\6. Extremums.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\6. Extremums\obj\Debug\_6.Extremums.exe
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\6. Extremums\obj\Debug\_6.Extremums.pdb

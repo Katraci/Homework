@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Array and List Algorithms\6. Batteries\bin\Debug\_6.Batteries.exe.config
+D:\SoftUni\Homework\Array and List Algorithms\6. Batteries\bin\Debug\_6.Batteries.exe
+D:\SoftUni\Homework\Array and List Algorithms\6. Batteries\bin\Debug\_6.Batteries.pdb
+D:\SoftUni\Homework\Array and List Algorithms\6. Batteries\obj\Debug\6. Batteries.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Array and List Algorithms\6. Batteries\obj\Debug\_6.Batteries.exe
+D:\SoftUni\Homework\Array and List Algorithms\6. Batteries\obj\Debug\_6.Batteries.pdb

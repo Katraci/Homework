@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\2. Binary Search\bin\Debug\_2.Binary_Search.exe.config
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\2. Binary Search\bin\Debug\_2.Binary_Search.exe
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\2. Binary Search\bin\Debug\_2.Binary_Search.pdb
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\2. Binary Search\obj\Debug\2. Binary Search.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\2. Binary Search\obj\Debug\_2.Binary_Search.exe
+D:\SoftUni\Homework\Array-and-List-Algorithms-More-Exercises\2. Binary Search\obj\Debug\_2.Binary_Search.pdb
