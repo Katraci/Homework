@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Dictionaries-Exercises\6. Filter Base\bin\Debug\_6.Filter_Base.exe.config
+D:\SoftUni\Homework\Dictionaries-Exercises\6. Filter Base\bin\Debug\_6.Filter_Base.exe
+D:\SoftUni\Homework\Dictionaries-Exercises\6. Filter Base\bin\Debug\_6.Filter_Base.pdb
+D:\SoftUni\Homework\Dictionaries-Exercises\6. Filter Base\obj\Debug\6. Filter Base.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Dictionaries-Exercises\6. Filter Base\obj\Debug\_6.Filter_Base.exe
+D:\SoftUni\Homework\Dictionaries-Exercises\6. Filter Base\obj\Debug\_6.Filter_Base.pdb
