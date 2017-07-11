@@ -30,31 +30,26 @@ namespace _3.Travel_Company
                 }
                  input = Console.ReadLine();
             }
-            Dictionary<string, long> groups = new Dictionary<string, long>();
             input = Console.ReadLine();
-            while (input!= "travel time!")
-            {
-                string[] cityComers = input.Split(' ').ToArray();
-                string city = cityComers[0];
-                long group = long.Parse(cityComers[1]);
-                groups[city] = group;
-                input = Console.ReadLine();
-            }
             Dictionary<string, long> cityCapacity = new Dictionary<string, long>();
             foreach (var item in cityVehicle)
             {
                 cityCapacity[item.Key] = SumCapacity(item.Value);
             }
-            foreach (KeyValuePair<string,long> group in groups)
+            while (input!= "travel time!")
             {
-                if (cityCapacity[group.Key] >=group.Value)
+                string[] cityComers = input.Split(' ').ToArray();
+                string city = cityComers[0];
+                long group = long.Parse(cityComers[1]);
+                if (cityCapacity[city] >= group)
                 {
-                    Console.WriteLine($"{group.Key} -> all {group.Value} accommodated");
+                    Console.WriteLine($"{city} -> all {group} accommodated");
                 }
                 else
                 {
-                    Console.WriteLine($"{group.Key} -> all except {group.Value- cityCapacity[group.Key]} accommodated");
+                    Console.WriteLine($"{city} -> all except {group - cityCapacity[city]} accommodated");
                 }
+                input = Console.ReadLine();
             }
         }
 
