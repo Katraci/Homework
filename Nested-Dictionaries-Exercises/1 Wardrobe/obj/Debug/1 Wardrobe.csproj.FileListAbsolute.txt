@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\1 Wardrobe\obj\Debug\1 Wardrobe.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\1 Wardrobe\bin\Debug\1 Wardrobe.exe.config
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\1 Wardrobe\bin\Debug\1 Wardrobe.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\1 Wardrobe\bin\Debug\1 Wardrobe.pdb
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\1 Wardrobe\obj\Debug\1 Wardrobe.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\1 Wardrobe\obj\Debug\1 Wardrobe.pdb

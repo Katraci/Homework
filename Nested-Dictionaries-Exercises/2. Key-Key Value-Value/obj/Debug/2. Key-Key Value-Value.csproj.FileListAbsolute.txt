@@ -1,0 +1,5 @@
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\2. Key-Key Value-Value\bin\Debug\_2.Key_Key_Value_Value.exe.config
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\2. Key-Key Value-Value\bin\Debug\_2.Key_Key_Value_Value.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\2. Key-Key Value-Value\bin\Debug\_2.Key_Key_Value_Value.pdb
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\2. Key-Key Value-Value\obj\Debug\_2.Key_Key_Value_Value.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\2. Key-Key Value-Value\obj\Debug\_2.Key_Key_Value_Value.pdb

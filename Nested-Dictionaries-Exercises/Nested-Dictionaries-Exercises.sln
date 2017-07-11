@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 Wardrobe", "1 Wardrobe\1 Wardrobe.csproj", "{040F2A18-FE63-44A2-989D-61C9BE796737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Key-Key Value-Value", "2. Key-Key Value-Value\2. Key-Key Value-Value.csproj", "{8E3B326B-52BD-4585-A72A-57B3A4F17451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Travel Company", "3. Travel Company\3. Travel Company.csproj", "{BBA649C6-4ABB-4C83-8660-2580E7FC065C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040F2A18-FE63-44A2-989D-61C9BE796737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040F2A18-FE63-44A2-989D-61C9BE796737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040F2A18-FE63-44A2-989D-61C9BE796737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040F2A18-FE63-44A2-989D-61C9BE796737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3B326B-52BD-4585-A72A-57B3A4F17451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3B326B-52BD-4585-A72A-57B3A4F17451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3B326B-52BD-4585-A72A-57B3A4F17451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3B326B-52BD-4585-A72A-57B3A4F17451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA649C6-4ABB-4C83-8660-2580E7FC065C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA649C6-4ABB-4C83-8660-2580E7FC065C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA649C6-4ABB-4C83-8660-2580E7FC065C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA649C6-4ABB-4C83-8660-2580E7FC065C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

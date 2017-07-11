@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\3. Travel Company\bin\Debug\_3.Travel_Company.exe.config
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\3. Travel Company\bin\Debug\_3.Travel_Company.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\3. Travel Company\bin\Debug\_3.Travel_Company.pdb
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\3. Travel Company\obj\Debug\3. Travel Company.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\3. Travel Company\obj\Debug\_3.Travel_Company.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\3. Travel Company\obj\Debug\_3.Travel_Company.pdb
