@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\7. Social Media Posts\bin\Debug\_7.Social_Media_Posts.exe.config
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\7. Social Media Posts\bin\Debug\_7.Social_Media_Posts.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\7. Social Media Posts\bin\Debug\_7.Social_Media_Posts.pdb
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\7. Social Media Posts\obj\Debug\7. Social Media Posts.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\7. Social Media Posts\obj\Debug\_7.Social_Media_Posts.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\7. Social Media Posts\obj\Debug\_7.Social_Media_Posts.pdb

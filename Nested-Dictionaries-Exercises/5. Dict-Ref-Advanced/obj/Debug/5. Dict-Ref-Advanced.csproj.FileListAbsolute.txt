@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\5. Dict-Ref-Advanced\bin\Debug\_5.Dict_Ref_Advanced.exe.config
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\5. Dict-Ref-Advanced\bin\Debug\_5.Dict_Ref_Advanced.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\5. Dict-Ref-Advanced\bin\Debug\_5.Dict_Ref_Advanced.pdb
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\5. Dict-Ref-Advanced\obj\Debug\5. Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\5. Dict-Ref-Advanced\obj\Debug\_5.Dict_Ref_Advanced.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\5. Dict-Ref-Advanced\obj\Debug\_5.Dict_Ref_Advanced.pdb

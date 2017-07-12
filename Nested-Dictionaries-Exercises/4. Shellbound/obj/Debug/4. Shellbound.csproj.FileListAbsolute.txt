@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\4. Shellbound\bin\Debug\_4.Shellbound.exe.config
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\4. Shellbound\bin\Debug\_4.Shellbound.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\4. Shellbound\bin\Debug\_4.Shellbound.pdb
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\4. Shellbound\obj\Debug\4. Shellbound.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\4. Shellbound\obj\Debug\_4.Shellbound.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\4. Shellbound\obj\Debug\_4.Shellbound.pdb

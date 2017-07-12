@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\6. Forum Topics\bin\Debug\_6.Forum_Topics.exe.config
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\6. Forum Topics\bin\Debug\_6.Forum_Topics.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\6. Forum Topics\bin\Debug\_6.Forum_Topics.pdb
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\6. Forum Topics\obj\Debug\6. Forum Topics.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\6. Forum Topics\obj\Debug\_6.Forum_Topics.exe
+D:\SoftUni\Homework\Nested-Dictionaries-Exercises\6. Forum Topics\obj\Debug\_6.Forum_Topics.pdb
