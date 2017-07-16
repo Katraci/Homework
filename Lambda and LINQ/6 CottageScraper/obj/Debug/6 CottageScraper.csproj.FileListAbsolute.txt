@@ -1,0 +1,6 @@
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\6 CottageScraper\obj\Debug\6 CottageScraper.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\6 CottageScraper\bin\Debug\6 CottageScraper.exe.config
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\6 CottageScraper\bin\Debug\6 CottageScraper.exe
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\6 CottageScraper\bin\Debug\6 CottageScraper.pdb
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\6 CottageScraper\obj\Debug\6 CottageScraper.exe
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\6 CottageScraper\obj\Debug\6 CottageScraper.pdb

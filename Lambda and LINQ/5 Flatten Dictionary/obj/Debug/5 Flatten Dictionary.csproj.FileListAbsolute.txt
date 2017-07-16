@@ -1,0 +1,6 @@
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\obj\Debug\5 Flatten Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\bin\Debug\5 Flatten Dictionary.exe.config
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\bin\Debug\5 Flatten Dictionary.exe
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\bin\Debug\5 Flatten Dictionary.pdb
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\obj\Debug\5 Flatten Dictionary.exe
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\obj\Debug\5 Flatten Dictionary.pdb

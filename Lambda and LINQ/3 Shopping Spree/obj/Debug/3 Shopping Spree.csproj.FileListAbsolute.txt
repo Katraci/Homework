@@ -1,0 +1,6 @@
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\3 Shopping Spree\bin\Debug\3 Shopping Spree.exe.config
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\3 Shopping Spree\bin\Debug\3 Shopping Spree.exe
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\3 Shopping Spree\bin\Debug\3 Shopping Spree.pdb
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\3 Shopping Spree\obj\Debug\3 Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\3 Shopping Spree\obj\Debug\3 Shopping Spree.exe
+C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\3 Shopping Spree\obj\Debug\3 Shopping Spree.pdb
