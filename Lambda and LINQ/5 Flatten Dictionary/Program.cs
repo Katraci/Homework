@@ -17,8 +17,27 @@ namespace _5_Flatten_Dictionary
             {
 
                 string[] curentInput = input.Split(' ');
-                if (curentInput[0] != "flatten")
+                if (curentInput[0] == "flatten")
                 {
+                    foreach (var item in pairs)
+                    {
+                        if (item.Key == curentInput[1])
+                        {
+                            foreach (var piece in item.Value)
+                            {
+                                if (!flatten.ContainsKey(curentInput[1]))
+                                {
+                                    flatten[curentInput[1]] = new List<string>();
+                                }
+                                flatten[curentInput[1]].Add(piece.Key + piece.Value);
+                            }
+                        }
+                    }
+                    pairs[curentInput[1]]= new Dictionary<string, string>();
+                }
+                else
+                {
+
                     if (!pairs.ContainsKey(curentInput[0]))
                     {
                         pairs[curentInput[0]] = new Dictionary<string, string>();
@@ -27,20 +46,6 @@ namespace _5_Flatten_Dictionary
                     {
                         pairs[curentInput[0]][curentInput[1]] = curentInput[2];
                     }
-                }
-                else
-                {
-                    string[] lastKeys = pairs[curentInput[1]].Keys.Reverse().Take(2).ToArray();
-                    string[] lastValue = pairs[curentInput[1]].Values.Reverse().Take(2).ToArray();
-                    pairs[curentInput[1]].Remove(lastKeys[0]);
-                    pairs[curentInput[1]].Remove(lastKeys[1]);
-                    if (!flatten.ContainsKey(curentInput[1]))
-                    {
-                        flatten[curentInput[1]] = new List<string>();
-                    }
-                    flatten[curentInput[1]].Add(lastKeys[1] + lastValue[1]);
-                    flatten[curentInput[1]].Add(lastKeys[0] + lastValue[0]);
-
                 }
                 input = Console.ReadLine();
             }
@@ -59,17 +64,12 @@ namespace _5_Flatten_Dictionary
                 }
                 if (flatten.ContainsKey(item.Key))
                 {
-                    foreach (var part in flatten)
-                    {
-                        foreach (var piece in flatten.Values)
+                   
+                        foreach (var piece in flatten[item.Key])
                         {
                             posicion++;
                             Console.WriteLine($"{posicion}. {piece}");
                         }
-                       
-
-
-                    }
                 }
 
             }

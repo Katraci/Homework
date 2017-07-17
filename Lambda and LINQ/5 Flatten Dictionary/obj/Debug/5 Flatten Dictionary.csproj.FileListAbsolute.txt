@@ -4,3 +4,9 @@ C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Di
 C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\bin\Debug\5 Flatten Dictionary.pdb
 C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\obj\Debug\5 Flatten Dictionary.exe
 C:\Users\Kucy\documents\visual studio 2017\Projects\Lambda and LINQ\5 Flatten Dictionary\obj\Debug\5 Flatten Dictionary.pdb
+D:\SoftUni\Homework\Lambda and LINQ\5 Flatten Dictionary\bin\Debug\5 Flatten Dictionary.exe.config
+D:\SoftUni\Homework\Lambda and LINQ\5 Flatten Dictionary\bin\Debug\5 Flatten Dictionary.exe
+D:\SoftUni\Homework\Lambda and LINQ\5 Flatten Dictionary\bin\Debug\5 Flatten Dictionary.pdb
+D:\SoftUni\Homework\Lambda and LINQ\5 Flatten Dictionary\obj\Debug\5 Flatten Dictionary.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Lambda and LINQ\5 Flatten Dictionary\obj\Debug\5 Flatten Dictionary.exe
+D:\SoftUni\Homework\Lambda and LINQ\5 Flatten Dictionary\obj\Debug\5 Flatten Dictionary.pdb
