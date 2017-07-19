@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\1 Array Data\bin\Debug\1 Array Data.exe.config
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\1 Array Data\bin\Debug\1 Array Data.exe
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\1 Array Data\bin\Debug\1 Array Data.pdb
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\1 Array Data\obj\Debug\1 Array Data.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\1 Array Data\obj\Debug\1 Array Data.exe
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\1 Array Data\obj\Debug\1 Array Data.pdb

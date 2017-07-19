@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\6 Ordered Banking System\bin\Debug\6 Ordered Banking System.exe.config
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\6 Ordered Banking System\bin\Debug\6 Ordered Banking System.exe
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\6 Ordered Banking System\bin\Debug\6 Ordered Banking System.pdb
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\6 Ordered Banking System\obj\Debug\6 Ordered Banking System.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\6 Ordered Banking System\obj\Debug\6 Ordered Banking System.exe
+D:\SoftUni\Homework\More Exercises Lambda and LINQ\6 Ordered Banking System\obj\Debug\6 Ordered Banking System.pdb
