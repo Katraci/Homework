@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Objects and Simple Classes\1 Exercises\bin\Debug\1 Exercises.exe.config
+D:\SoftUni\Homework\Objects and Simple Classes\1 Exercises\bin\Debug\1 Exercises.exe
+D:\SoftUni\Homework\Objects and Simple Classes\1 Exercises\bin\Debug\1 Exercises.pdb
+D:\SoftUni\Homework\Objects and Simple Classes\1 Exercises\obj\Debug\1 Exercises.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Objects and Simple Classes\1 Exercises\obj\Debug\1 Exercises.exe
+D:\SoftUni\Homework\Objects and Simple Classes\1 Exercises\obj\Debug\1 Exercises.pdb

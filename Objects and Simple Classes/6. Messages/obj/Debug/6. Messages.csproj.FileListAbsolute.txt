@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Objects and Simple Classes\6. Messages\bin\Debug\_6.Messages.exe.config
+D:\SoftUni\Homework\Objects and Simple Classes\6. Messages\bin\Debug\_6.Messages.exe
+D:\SoftUni\Homework\Objects and Simple Classes\6. Messages\bin\Debug\_6.Messages.pdb
+D:\SoftUni\Homework\Objects and Simple Classes\6. Messages\obj\Debug\6. Messages.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Objects and Simple Classes\6. Messages\obj\Debug\_6.Messages.exe
+D:\SoftUni\Homework\Objects and Simple Classes\6. Messages\obj\Debug\_6.Messages.pdb

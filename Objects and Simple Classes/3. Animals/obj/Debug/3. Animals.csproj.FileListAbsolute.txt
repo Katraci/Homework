@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Objects and Simple Classes\3. Animals\bin\Debug\_3.Animals.exe.config
+D:\SoftUni\Homework\Objects and Simple Classes\3. Animals\bin\Debug\_3.Animals.exe
+D:\SoftUni\Homework\Objects and Simple Classes\3. Animals\bin\Debug\_3.Animals.pdb
+D:\SoftUni\Homework\Objects and Simple Classes\3. Animals\obj\Debug\3. Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Objects and Simple Classes\3. Animals\obj\Debug\_3.Animals.exe
+D:\SoftUni\Homework\Objects and Simple Classes\3. Animals\obj\Debug\_3.Animals.pdb

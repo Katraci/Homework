@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Objects and Simple Classes\4. Websites\bin\Debug\_4.Websites.exe.config
+D:\SoftUni\Homework\Objects and Simple Classes\4. Websites\bin\Debug\_4.Websites.exe
+D:\SoftUni\Homework\Objects and Simple Classes\4. Websites\bin\Debug\_4.Websites.pdb
+D:\SoftUni\Homework\Objects and Simple Classes\4. Websites\obj\Debug\4. Websites.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Objects and Simple Classes\4. Websites\obj\Debug\_4.Websites.exe
+D:\SoftUni\Homework\Objects and Simple Classes\4. Websites\obj\Debug\_4.Websites.pdb
