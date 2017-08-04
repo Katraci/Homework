@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Strings and Text Processing\7. Capitalize Words\bin\Debug\_7.Capitalize_Words.exe.config
+D:\SoftUni\Homework\Strings and Text Processing\7. Capitalize Words\bin\Debug\_7.Capitalize_Words.exe
+D:\SoftUni\Homework\Strings and Text Processing\7. Capitalize Words\bin\Debug\_7.Capitalize_Words.pdb
+D:\SoftUni\Homework\Strings and Text Processing\7. Capitalize Words\obj\Debug\7. Capitalize Words.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Strings and Text Processing\7. Capitalize Words\obj\Debug\_7.Capitalize_Words.exe
+D:\SoftUni\Homework\Strings and Text Processing\7. Capitalize Words\obj\Debug\_7.Capitalize_Words.pdb

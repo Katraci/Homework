@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\7. Pyramidic\bin\Debug\_7.Pyramidic.exe.config
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\7. Pyramidic\bin\Debug\_7.Pyramidic.exe
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\7. Pyramidic\bin\Debug\_7.Pyramidic.pdb
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\7. Pyramidic\obj\Debug\7. Pyramidic.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\7. Pyramidic\obj\Debug\_7.Pyramidic.exe
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\7. Pyramidic\obj\Debug\_7.Pyramidic.pdb

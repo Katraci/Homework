@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\5. String Commander\bin\Debug\_5.String_Commander.exe.config
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\5. String Commander\bin\Debug\_5.String_Commander.exe
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\5. String Commander\bin\Debug\_5.String_Commander.pdb
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\5. String Commander\obj\Debug\5. String Commander.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\5. String Commander\obj\Debug\_5.String_Commander.exe
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\5. String Commander\obj\Debug\_5.String_Commander.pdb

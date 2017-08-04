@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Strings and Text Processing\3. JSON Stringify\bin\Debug\_3.JSON_Stringify.exe.config
+D:\SoftUni\Homework\Strings and Text Processing\3. JSON Stringify\bin\Debug\_3.JSON_Stringify.exe
+D:\SoftUni\Homework\Strings and Text Processing\3. JSON Stringify\bin\Debug\_3.JSON_Stringify.pdb
+D:\SoftUni\Homework\Strings and Text Processing\3. JSON Stringify\obj\Debug\3. JSON Stringify.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Strings and Text Processing\3. JSON Stringify\obj\Debug\_3.JSON_Stringify.exe
+D:\SoftUni\Homework\Strings and Text Processing\3. JSON Stringify\obj\Debug\_3.JSON_Stringify.pdb

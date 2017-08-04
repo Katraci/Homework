@@ -1,0 +1,5 @@
+D:\SoftUni\Homework\Strings and Text Processing\6. Sentence Split\bin\Debug\_6.Sentence_Split.exe.config
+D:\SoftUni\Homework\Strings and Text Processing\6. Sentence Split\bin\Debug\_6.Sentence_Split.exe
+D:\SoftUni\Homework\Strings and Text Processing\6. Sentence Split\bin\Debug\_6.Sentence_Split.pdb
+D:\SoftUni\Homework\Strings and Text Processing\6. Sentence Split\obj\Debug\_6.Sentence_Split.exe
+D:\SoftUni\Homework\Strings and Text Processing\6. Sentence Split\obj\Debug\_6.Sentence_Split.pdb

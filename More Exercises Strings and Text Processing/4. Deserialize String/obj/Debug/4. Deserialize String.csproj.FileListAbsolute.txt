@@ -1,0 +1,5 @@
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\4. Deserialize String\bin\Debug\_4.Deserialize_String.exe.config
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\4. Deserialize String\bin\Debug\_4.Deserialize_String.exe
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\4. Deserialize String\bin\Debug\_4.Deserialize_String.pdb
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\4. Deserialize String\obj\Debug\_4.Deserialize_String.exe
+D:\SoftUni\Homework\More Exercises Strings and Text Processing\4. Deserialize String\obj\Debug\_4.Deserialize_String.pdb

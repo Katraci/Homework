@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Strings and Text Processing\1. Find the Letter\bin\Debug\_1.Find_the_Letter.exe.config
+D:\SoftUni\Homework\Strings and Text Processing\1. Find the Letter\bin\Debug\_1.Find_the_Letter.exe
+D:\SoftUni\Homework\Strings and Text Processing\1. Find the Letter\bin\Debug\_1.Find_the_Letter.pdb
+D:\SoftUni\Homework\Strings and Text Processing\1. Find the Letter\obj\Debug\1. Find the Letter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Strings and Text Processing\1. Find the Letter\obj\Debug\_1.Find_the_Letter.exe
+D:\SoftUni\Homework\Strings and Text Processing\1. Find the Letter\obj\Debug\_1.Find_the_Letter.pdb
