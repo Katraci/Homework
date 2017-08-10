@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Regular Expressions\5. SoftUni Messages\bin\Debug\_5.SoftUni_Messages.exe.config
+D:\SoftUni\Homework\Regular Expressions\5. SoftUni Messages\bin\Debug\_5.SoftUni_Messages.exe
+D:\SoftUni\Homework\Regular Expressions\5. SoftUni Messages\bin\Debug\_5.SoftUni_Messages.pdb
+D:\SoftUni\Homework\Regular Expressions\5. SoftUni Messages\obj\Debug\5. SoftUni Messages.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Regular Expressions\5. SoftUni Messages\obj\Debug\_5.SoftUni_Messages.exe
+D:\SoftUni\Homework\Regular Expressions\5. SoftUni Messages\obj\Debug\_5.SoftUni_Messages.pdb

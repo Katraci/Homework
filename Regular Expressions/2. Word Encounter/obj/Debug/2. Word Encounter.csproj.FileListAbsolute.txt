@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Regular Expressions\2. Word Encounter\bin\Debug\_2.Word_Encounter.exe.config
+D:\SoftUni\Homework\Regular Expressions\2. Word Encounter\bin\Debug\_2.Word_Encounter.exe
+D:\SoftUni\Homework\Regular Expressions\2. Word Encounter\bin\Debug\_2.Word_Encounter.pdb
+D:\SoftUni\Homework\Regular Expressions\2. Word Encounter\obj\Debug\2. Word Encounter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Regular Expressions\2. Word Encounter\obj\Debug\_2.Word_Encounter.exe
+D:\SoftUni\Homework\Regular Expressions\2. Word Encounter\obj\Debug\_2.Word_Encounter.pdb

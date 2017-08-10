@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Regular Expressions\4. Grocery Shop\bin\Debug\_4.Grocery_Shop.exe.config
+D:\SoftUni\Homework\Regular Expressions\4. Grocery Shop\bin\Debug\_4.Grocery_Shop.exe
+D:\SoftUni\Homework\Regular Expressions\4. Grocery Shop\bin\Debug\_4.Grocery_Shop.pdb
+D:\SoftUni\Homework\Regular Expressions\4. Grocery Shop\obj\Debug\4. Grocery Shop.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Regular Expressions\4. Grocery Shop\obj\Debug\_4.Grocery_Shop.exe
+D:\SoftUni\Homework\Regular Expressions\4. Grocery Shop\obj\Debug\_4.Grocery_Shop.pdb

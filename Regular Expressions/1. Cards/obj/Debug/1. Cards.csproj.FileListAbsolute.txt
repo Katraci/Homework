@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Regular Expressions\1. Cards\bin\Debug\_1.Cards.exe.config
+D:\SoftUni\Homework\Regular Expressions\1. Cards\bin\Debug\_1.Cards.exe
+D:\SoftUni\Homework\Regular Expressions\1. Cards\bin\Debug\_1.Cards.pdb
+D:\SoftUni\Homework\Regular Expressions\1. Cards\obj\Debug\1. Cards.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Regular Expressions\1. Cards\obj\Debug\_1.Cards.exe
+D:\SoftUni\Homework\Regular Expressions\1. Cards\obj\Debug\_1.Cards.pdb

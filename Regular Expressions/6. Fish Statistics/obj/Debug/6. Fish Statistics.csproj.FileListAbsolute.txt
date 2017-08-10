@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Regular Expressions\6. Fish Statistics\bin\Debug\_6.Fish_Statistics.exe.config
+D:\SoftUni\Homework\Regular Expressions\6. Fish Statistics\bin\Debug\_6.Fish_Statistics.exe
+D:\SoftUni\Homework\Regular Expressions\6. Fish Statistics\bin\Debug\_6.Fish_Statistics.pdb
+D:\SoftUni\Homework\Regular Expressions\6. Fish Statistics\obj\Debug\6. Fish Statistics.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Regular Expressions\6. Fish Statistics\obj\Debug\_6.Fish_Statistics.exe
+D:\SoftUni\Homework\Regular Expressions\6. Fish Statistics\obj\Debug\_6.Fish_Statistics.pdb

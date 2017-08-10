@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Regular Expressions\7. Happiness Index\bin\Debug\_7.Happiness_Index.exe.config
+D:\SoftUni\Homework\Regular Expressions\7. Happiness Index\bin\Debug\_7.Happiness_Index.exe
+D:\SoftUni\Homework\Regular Expressions\7. Happiness Index\bin\Debug\_7.Happiness_Index.pdb
+D:\SoftUni\Homework\Regular Expressions\7. Happiness Index\obj\Debug\7. Happiness Index.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Regular Expressions\7. Happiness Index\obj\Debug\_7.Happiness_Index.exe
+D:\SoftUni\Homework\Regular Expressions\7. Happiness Index\obj\Debug\_7.Happiness_Index.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Regular Expressions\8 Commits\bin\Debug\8 Commits.exe.config
+D:\SoftUni\Homework\Regular Expressions\8 Commits\bin\Debug\8 Commits.exe
+D:\SoftUni\Homework\Regular Expressions\8 Commits\bin\Debug\8 Commits.pdb
+D:\SoftUni\Homework\Regular Expressions\8 Commits\obj\Debug\8 Commits.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Regular Expressions\8 Commits\obj\Debug\8 Commits.exe
+D:\SoftUni\Homework\Regular Expressions\8 Commits\obj\Debug\8 Commits.pdb

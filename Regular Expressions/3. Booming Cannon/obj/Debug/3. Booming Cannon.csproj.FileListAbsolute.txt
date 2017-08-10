@@ -1,0 +1,6 @@
+D:\SoftUni\Homework\Regular Expressions\3. Booming Cannon\bin\Debug\_3.Booming_Cannon.exe.config
+D:\SoftUni\Homework\Regular Expressions\3. Booming Cannon\bin\Debug\_3.Booming_Cannon.exe
+D:\SoftUni\Homework\Regular Expressions\3. Booming Cannon\bin\Debug\_3.Booming_Cannon.pdb
+D:\SoftUni\Homework\Regular Expressions\3. Booming Cannon\obj\Debug\3. Booming Cannon.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homework\Regular Expressions\3. Booming Cannon\obj\Debug\_3.Booming_Cannon.exe
+D:\SoftUni\Homework\Regular Expressions\3. Booming Cannon\obj\Debug\_3.Booming_Cannon.pdb
